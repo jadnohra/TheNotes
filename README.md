@@ -103,6 +103,8 @@ Dear Mathematics, Physics, Logic and Science in general. Forgive me for these we
 ├── 2018
 │   ├── Free\ Occurrences\ in\ FOL.pdf
 │   └── thought_base.pdf
+├── 2019
+│   ├── memo_linear-algbera-done-right.pdf
 ├── LICENSE
 ├── README.md
 └── TheNotes.png
