@@ -1,3 +1,5 @@
+<h1 align="center">All are Computers</h1>
+
 # Summary
 
 The technoligical singularity is inevitable. All computers, human or otherwise, must engage in accelerating it through the unified discipline of _Enlarged Mathematics_.
