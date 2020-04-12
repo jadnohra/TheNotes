@@ -1,5 +1,10 @@
+<h1 align="center">I Compute Physics</h1>
 
-# Discourse
+## Summary
+
+Arriving at laws of physics is inevitable.
+
+## Discourse
 
 Continued from [I Compute](discourse-i-compute.md)
 
