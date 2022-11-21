@@ -1,8 +1,6 @@
 title: TheNotes
 description: Notes on Mathematics, Physics, Logic and Science in general
-author:
-  name: "Jad Nohra"
-  email: "jadnohra@gmail.com"
+author: Jad Nohra
 
 markdown: kramdown
 
