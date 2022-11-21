@@ -1,19 +1,18 @@
 title: TheNotes
 description: Notes on Mathematics, Physics, Logic and Science in general
 author: Jad Nohra
-
 markdown: kramdown
-
 show_downloads: true
 show_excerpts: true
 google_analytics: UA-NNNNNNNN-N
 theme: minima
 
-social_links:
-  - { platform: github,         user_url: "https://github.com/jadnohra" }
-  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=0pae59AAAAAJ" }
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jadnohra" }
-  - { platform: youtube,        user_url: "https://www.youtube.com/@JadNohraPoly" }
-  
-disqus:
-  shortname: jadnohra
+minima:
+  date_format: "%Y-%MM-%DD"
+  social_links:
+    - { platform: github,         user_url: "https://github.com/jadnohra" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=0pae59AAAAAJ" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jadnohra" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@JadNohraPoly" }
+  disqus:
+    shortname: jadnohra
