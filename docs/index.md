@@ -1,5 +1,8 @@
 <p align="center"><img src="/TheNotes/assets/TheNotes.png" width="320"/></p>
 
+# Short Notes
+- 2022-04-01 [The Simplest Way to Remember Bayes Rule](short-notes/2022-04-01-remember-bayes.md)
+
 # Long Notes TOC
 
 Long notes can be found [on github](https://github.com/jadnohra/TheNotes)
