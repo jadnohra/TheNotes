@@ -1,7 +1,7 @@
 <p align="center"><img src="/TheNotes/assets/TheNotes.png" width="320"/></p>
 
 # Short Notes
-- 2022-11-21 [Remember Bayes Rule as a 'Change of Bayesis'](2022-11-21-bayes-notation.md)
+- 2022-11-21 [Remember Bayes Rule as a 'Change of Bayesis'](short-notes/2022-11-21-bayes-notation.md)
 - 2022-04-01 [The Simplest Way to Remember Bayes Rule](short-notes/2022-04-01-remember-bayes.md)
 
 # Long Notes TOC
