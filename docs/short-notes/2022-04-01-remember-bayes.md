@@ -11,7 +11,7 @@ That’s all there is to it, in terms of memorizing the rule.
 
 # Recovering the Common Version
 
-<p align="center"><img src="/TheNotes/assets/remember-bayes-1.webp" width="320"/></p>
+<p align="center"><img src="/TheNotes/assets/remember-bayes-1.webp" width="640"/></p>
 
 The key to making this naturally intuitive to remember is thinking in terms of numbers of samples (instead of probabilities), properties (instead of events), fractions (instead of conditional probabilities). Of course, this is just an aid, helping memorize the general form. Nevertheless, it is not wrong, instead it is a faithful example, taken from the discrete case.
 
