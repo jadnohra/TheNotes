@@ -3,6 +3,9 @@ description: Notes on Mathematics, Physics, Logic and Science in general
 author:
   name: Jad Nohra
   email: "jadnohra@gmail.com"
+
+markdown: kramdown
+
 show_downloads: true
 show_excerpts: true
 google_analytics: UA-NNNNNNNN-N
