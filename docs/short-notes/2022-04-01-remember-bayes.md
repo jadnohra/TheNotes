@@ -11,11 +11,14 @@ That’s all there is to it, in terms of memorizing the rule.
 
 # Recovering the Common Version
 
+<p align="center"><img src="/TheNotes/assets/remember-bayes-1.webp" width="320"/></p>
+
 The key to making this naturally intuitive to remember is thinking in terms of numbers of samples (instead of probabilities), properties (instead of events), fractions (instead of conditional probabilities). Of course, this is just an aid, helping memorize the general form. Nevertheless, it is not wrong, instead it is a faithful example, taken from the discrete case.
 
 # The Simplest Way to Remember Bayes’ Rule, for the Visual Ones
 Imagine a bag of shapes. A shape can be a square, an checkmark X, or a checked square.
 
+<p align="center"><img src="/TheNotes/assets/remember-bayes-2.webp" width="320"/></p>
 
 The number of squares with a checkmark, derived from the total number of all squares (checkmark or not), is the number of all squares, weighted by the fraction of the them which are checked. Similarly, derived from the number of all checked shapes (square or not), it is the number of all checked shapes, weighted by the fraction of them which are squares.
 
