@@ -1,8 +1,8 @@
-![Logo](/TheNotes/assets/TheNotes.png)
+![Logo](/TheNotes/assets/TheNotes.png | width=100)
 
 # Long Notes TOC
 
-Long notes can be found at: https://github.com/jadnohra/TheNotes
+Long notes can be found [on github](https://github.com/jadnohra/TheNotes)
 
 ```
 .
