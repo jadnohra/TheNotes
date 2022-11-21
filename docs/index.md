@@ -1,4 +1,4 @@
-![Logo](/TheNotes/assets/TheNotes.png | width=100)
+<p align="center"><img src="/TheNotes/assets/TheNotes.png" width="320"/></p>
 
 # Long Notes TOC
 
