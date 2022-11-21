@@ -3,7 +3,7 @@ description: Notes on Mathematics, Physics, Logic and Science in general
 author: Jad Nohra
 markdown: kramdown
 show_downloads: true
-show_excerpts: true
+show_excerpts: false
 google_analytics: UA-NNNNNNNN-N
 theme: minima
 
