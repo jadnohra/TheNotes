@@ -40,7 +40,7 @@ These applications are inspired by the exercises mentioned in the book chapter a
 ## Deriving Bayes Theorem
 
 $$\begin{align*} 
-&(A \land B)[C] = (B \land A)[C] = A[B] . B[C] = B[A] . A[C] 
+&(A . B)[C] = (B . A)[C] = A[B] . B[C] = B[A] . A[C] 
 \\ &\implies A[B] = \frac{B[A] . A[C]}{B[C]}
 \end{align*}$$
 
@@ -54,9 +54,9 @@ Given independent subspaces $$B_i$$ which together cover $$\mathcal{U}$$, we hav
 
 $$\begin{aligned} 
 A[\mathcal{U}] 
-\\ &= (A \land \mathcal{U})[\mathcal{U}] 
-\\ &= (A \land \sum_i{B_i} )[\mathcal{U}] 
-\\ &= (\sum_i{A \land B_i} )[\mathcal{U}] 
-\\ &= \sum_i{(A \land B_i)[\mathcal{U}]}
-\\ &= \sum_i{(A[B_i] \land B_i[\mathcal{U}]})
+\\ &= (A . \mathcal{U})[\mathcal{U}] 
+\\ &= (A . \sum_i{B_i} )[\mathcal{U}] 
+\\ &= (\sum_i{A . B_i} )[\mathcal{U}] 
+\\ &= \sum_i{(A . B_i)[\mathcal{U}]}
+\\ &= \sum_i{(A[B_i] . B_i[\mathcal{U}]})
 \end{aligned}$$
