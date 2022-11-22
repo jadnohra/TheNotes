@@ -23,8 +23,7 @@ It is possible to create an interesting notation based on Bayes rule that helps 
   
   $$ A[B] . B[C] = (A . B)[C] $$
 
-Rule 2 is the key that makes the notation useful, producing this easy to remember **'Change of Bayesis'** (not a typo) form. 
-Due to rule 2, this notation only works in the case of independent variables. 
+Rule 2 is the key that makes the notation useful, producing this [easy to remember]((short-notes/2022-04-01-remember-bayes.md)) **'Change of Bayesis'** (not a typo) form. Without additional improvement, this notation only works in the case of independent variables. 
 
 # Similarities
 
@@ -45,8 +44,6 @@ $$\begin{align*}
 \end{align*}$$
 
 That's Bayes Theorem. To recover the traditional form, we set $$C$$ to $$\mathcal{U}$$. 
-
-Due to this, rule 2 expressed in this notation is [yet another way to remember](short-notes/2022-04-01-remember-bayes.md) Bayes theorem, by 'Change of Bayesis'.
 
 ## Deriving A Basic Formula for Total Probability
 
