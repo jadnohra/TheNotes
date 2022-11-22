@@ -9,9 +9,9 @@ It is possible to create an interesting notation based on Bayes rule that helps 
     - The parentheses contain terms made up of random variables
     - The square brackets contain the subset of the full universe $$\mathcal{U}$$ within which the random variable expression takes place. This creates a homogenous explicit notation replacing the 'A given B' notation. Examples follow.
   - A probability such as $$P(A)$$ is written as $$A[\mathcal{U}]$$. 
-  - A probability such as $$P(A | B)$$ is then written as $$A[B]$$.
-  - A probability such as $$P(A.B | C)$$ is then written as $$(A . B)[C]$$.
-  - A probability such as $$P(A.B | C+D)$$ is then written as $$(A . B)[C + D]$$.
+  - A probability such as $$P(A \vert B)$$ is then written as $$A[B]$$.
+  - A probability such as $$P(A.B \vert C)$$ is then written as $$(A . B)[C]$$.
+  - A probability such as $$P(A.B \vert C+D)$$ is then written as $$(A . B)[C + D]$$.
  
 # The rules:
   1. Within parentheses, the normal rules of probability apply. For example $$(A . (B + C))[D] =  (A . B + A . C)[D]$$
