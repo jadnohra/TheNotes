@@ -2,9 +2,10 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+# Summary
 It is possible to create an interesting notation based on Bayes rule that helps with simple derivations, such as [Chapter-1](https://colab.research.google.com/github/AllenDowney/ThinkBayes2/blob/master/notebooks/chap01.ipynb) and [Chapter-2](https://colab.research.google.com/github/AllenDowney/ThinkBayes2/blob/master/notebooks/chap02.ipynb) exercise in the free book ['Think Bayes 2'](https://allendowney.github.io/ThinkBayes2/).
 
-# The notation
+# The Notation
   - Probabilistic terms always use an outer parentheses expression followed by a square bracket expression, like so: $$(A + B)[C]$$
     - The parentheses contain terms made up of random variables
     - The square brackets contain the subset of the full universe $$\mathcal{U}$$ within which the random variable expression takes place. This creates a homogenous explicit notation replacing the 'A given B' notation. Examples follow.
@@ -13,7 +14,7 @@ It is possible to create an interesting notation based on Bayes rule that helps 
   - A probability such as $$P(A.B \vert C)$$ is then written as $$(A . B)[C]$$.
   - A probability such as $$P(A.B \vert C+D)$$ is then written as $$(A . B)[C + D]$$.
  
-# The rules:
+# The Rules
   1. Within parentheses, the normal rules of probability apply. For example 
    
    $$(A . (B + C))[D] =  (A . B + A . C)[D]$$
