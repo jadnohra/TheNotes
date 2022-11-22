@@ -4,10 +4,6 @@
 
 It is possible to create an interesting notation based on Bayes rule that helps with simple derivations, such as [Chapter-1](https://colab.research.google.com/github/AllenDowney/ThinkBayes2/blob/master/notebooks/chap01.ipynb) and [Chapter-2](https://colab.research.google.com/github/AllenDowney/ThinkBayes2/blob/master/notebooks/chap02.ipynb) exercise in the free book ['Think Bayes 2'](https://allendowney.github.io/ThinkBayes2/).
 
-The notation was born out of the following observations:
-  - We move a lot between probabilistic subspaces and that's key. For example by $$P(A)$$ we mean the probability of $$A$$ in the 'Universe' $$\mathcal{U}$$, while by $$P(A\|B)$$ we mean the proability of $$A$$ in the subspace $$B$$. Why not then make the indication 'Basis' space explicit and homogeneous?
-  - In the traditional notation, we confound the multiplication and addition operators to operate both on scalars and random variables. It would be a bit clearer for beginners if we did not.
-
 # The notation
   - Probabilistic terms always use an outer parentheses expression followed by a square bracket expression, like so: $$(A + B)[C]$$
     - The parentheses contain terms made up of random variables
