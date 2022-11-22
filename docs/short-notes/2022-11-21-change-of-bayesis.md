@@ -1,5 +1,6 @@
 ---
 mathjax: true
+use_math: true
 ---
 
 <script type="text/javascript" async
