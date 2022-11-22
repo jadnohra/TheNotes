@@ -1,7 +1,6 @@
----
-mathjax: true
-use_math: true
----
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 It is possible to create an interesting notation based on Bayes rule that helps with simple derivations, such as [Chapter-2 exercises](https://colab.research.google.com/github/AllenDowney/ThinkBayes2/blob/master/notebooks/chap02.ipynb) from the excellent free book ['Think Bayes 2'](https://allendowney.github.io/ThinkBayes2/).
 
