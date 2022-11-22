@@ -9,11 +9,11 @@ The notation was born out of the following observations:
   - We use $\&$ and $\lor$ for random variable operations
   - A probability such as $P(A)$ is instead written as $A[\mathcal{U}]$. 
   - A probability such as $P(A \| B)$ is then written as $A[B]$.
-  - A probability such as $P(A.B \| C)$ is then written as $(A \\& B)[C]$.
-  - A probability such as $P(A.B \| C+D)$ is then written as $(A \\& B)[C \lor D]$.
+  - A probability such as $P(A.B \| C)$ is then written as $(A \& B)[C]$.
+  - A probability such as $P(A.B \| C+D)$ is then written as $(A \& B)[C \lor D]$.
  
 # The rules:
-  1. Within parentheses, the normal rules of probability apply. For example $(A \& (B + C))[D] =  (A \\& B + A \&C)[D]$
+  1. Within parentheses, the normal rules of probability apply. For example $(A \& (B + C))[D] =  (A \& B + A \&C)[D]$
   2. The rule of conditional probability becomes the device for moving terms between parentheses and square brackets. It is the key that makes the notation useful. It gets this easy to remember 'Change of Bayesis (pun intended)' form:
   
   $$ A[B] . B[C] = (A \& B)[C] $$
