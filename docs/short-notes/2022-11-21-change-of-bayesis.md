@@ -4,7 +4,7 @@
 
 # Summary
 
-$$ A[B] . B[C] = (A . B)[C] $$ 
+$$ A[B] . B[C] = (A . B)[C] \quad \text{(Change of Bayesis)}$$ 
 
 It is possible to create an interesting notation based on Bayes rule that helps with simple derivations, such as [Chapter-1](https://colab.research.google.com/github/AllenDowney/ThinkBayes2/blob/master/notebooks/chap01.ipynb) and [Chapter-2](https://colab.research.google.com/github/AllenDowney/ThinkBayes2/blob/master/notebooks/chap02.ipynb) exercise in the free book ['Think Bayes 2'](https://allendowney.github.io/ThinkBayes2/).
 
