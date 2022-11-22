@@ -31,7 +31,7 @@ Due to rule 2, this notation only works in the case of independent variables.
 Does $$ A[B] . B[C] = (A . B)[C] $$ seem familiar? Yes it does!
 
 * In Calculus, the chain rule, which is a 'change of variable' or 'change of basis' rule is in Leibniz notation by $$\frac{dx}{dz} = \frac{dx}{dy} \frac{dy}{dz}$$
-* In Linear Algebra, the change of basis is in [robotics notation](https://www.cs.columbia.edu/~allen/F17/NOTES/frames2.pdf) given by $$v^B = T^A_B v^a$$
+* In Linear Algebra, the change of basis is in [robotics notation](https://www.cs.columbia.edu/~allen/F17/NOTES/frames2.pdf) given by $$v^B = T^A_B v^A$$
 
 # Applications
 
