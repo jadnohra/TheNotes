@@ -1,7 +1,7 @@
 It is possible to create an interesting notation based on Bayes rule that helps with simple derivations, such as [Chapter-2 exercises](https://colab.research.google.com/github/AllenDowney/ThinkBayes2/blob/master/notebooks/chap02.ipynb) from the excellent free book ['Think Bayes 2'](https://allendowney.github.io/ThinkBayes2/).
 
 The notation was born out of the following observations:
-  - A lot of basic Bayesian manipulations are in essense about doing normal probability calculations, but in subspaces of the probabilistic universe in question. For example by $P(A)$ we mean the probability of $A$ in the 'Universe' $\mathcal{U}$, while by $P(A\|B)$ we mean the proability of $A$ in the subspace $B$. Why not then make the 'Basis' space explicit in all cases.
+  - We move a lot between probabilistic subspaces and that's key. For example by $P(A)$ we mean the probability of $A$ in the 'Universe' $\mathcal{U}$, while by $P(A\|B)$ we mean the proability of $A$ in the subspace $B$. Why not then make the 'Basis' space explicit in all cases.
   - In the traditional notation, we confound the multiplication and addition operators to operate both on scalars and random variables. It would be a bit clearer for beginners if we did not.
 
 # The notation
