@@ -14,11 +14,15 @@ It is possible to create an interesting notation based on Bayes rule that helps 
   - A probability such as $$P(A.B \vert C+D)$$ is then written as $$(A . B)[C + D]$$.
  
 # The rules:
-  1. Within parentheses, the normal rules of probability apply. For example $$(A . (B + C))[D] =  (A . B + A . C)[D]$$
-  2. The rule of conditional probability becomes the device for moving terms between parentheses and square brackets. It is the key that makes the notation useful, producing this easy to remember **'Change of Bayesis'** (not a typo) form:
+  1. Within parentheses, the normal rules of probability apply. For example 
+   
+   $$(A . (B + C))[D] =  (A . B + A . C)[D]$$
+  
+  2. The rule of conditional probability becomes the device for moving terms between parentheses and square brackets. 
   
   $$ A[B] . B[C] = (A . B)[C] $$
 
+Rule 2 is the key that makes the notation useful, producing this easy to remember **'Change of Bayesis'** (not a typo) form. 
 Due to rule 2, this notation only works in the case of independent variables. 
 
 # Similarities
