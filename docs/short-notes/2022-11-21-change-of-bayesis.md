@@ -15,7 +15,7 @@ It is possible to create an interesting notation based on Bayes rule that helps 
  
 # The rules:
   1. Within parentheses, the normal rules of probability apply. For example $$(A . (B + C))[D] =  (A . B + A . C)[D]$$
-  2. The rule of conditional probability becomes the device for moving terms between parentheses and square brackets. It is the key that makes the notation useful, producing this easy to remember **'Change of Bayesis (pun intended)'** form:
+  2. The rule of conditional probability becomes the device for moving terms between parentheses and square brackets. It is the key that makes the notation useful, producing this easy to remember **'Change of Bayesis'** form:
   
   $$ A[B] . B[C] = (A . B)[C] $$
 
