@@ -6,17 +6,17 @@ The notation was born out of the following observations:
 
 # The notation
   - We use $.$ and $+$ for scalar operations
-  - We use $\&$ and $\lor$ for random variable operations
+  - We use $\land$ and $\lor$ for random variable operations
   - A probability such as $P(A)$ is instead written as $A[\mathcal{U}]$. 
   - A probability such as $P(A \| B)$ is then written as $A[B]$.
-  - A probability such as $P(A.B \| C)$ is then written as $(A \& B)[C]$.
-  - A probability such as $P(A.B \| C+D)$ is then written as $(A \& B)[C \lor D]$.
+  - A probability such as $P(A.B \| C)$ is then written as $(A \land B)[C]$.
+  - A probability such as $P(A.B \| C+D)$ is then written as $(A \land B)[C \lor D]$.
  
 # The rules:
-  1. Within parentheses, the normal rules of probability apply. For example $(A \& (B + C))[D] =  (A \& B + A \&C)[D]$
+  1. Within parentheses, the normal rules of probability apply. For example $(A \land (B + C))[D] =  (A \land B + A \land C)[D]$
   2. The rule of conditional probability becomes the device for moving terms between parentheses and square brackets. It is the key that makes the notation useful. It gets this easy to remember 'Change of Bayesis (pun intended)' form:
   
-  $$ A[B] . B[C] = (A \& B)[C] $$
+  $$ A[B] . B[C] = (A \land B)[C] $$
 
 Due to rule 2, this notation only works in the case of independent variables. 
 
@@ -27,7 +27,7 @@ These applications are inspired by the exercises mentioned in the book chapter a
 ## Deriving Bayes Theorem
 
 $$\begin{align*} 
-&(A \& B)[C] = (B \& A)[C] = A[B] . B[C] = B[A] . A[C] 
+&(A \land B)[C] = (B \land A)[C] = A[B] . B[C] = B[A] . A[C] 
 \\ &\implies A[B] = \frac{B[A] . A[C]}{B[C]}
 \end{align*}$$
 
@@ -41,9 +41,9 @@ Given independent subspaces $B_i$ which together cover $\mathcal{U}$, we have
 
 $$\begin{aligned} 
 A[\mathcal{U}] 
-\\ &= (A \& \mathcal{U})[\mathcal{U}] 
-\\ &= (A \& \sum_i{B_i} )[\mathcal{U}] 
-\\ &= (\sum_i{A \& B_i} )[\mathcal{U}] 
-\\ &= \sum_i{(A \& B_i)[\mathcal{U}]}
-\\ &= \sum_i{(A[B_i] \& B_i[\mathcal{U}]})
+\\ &= (A \land \mathcal{U})[\mathcal{U}] 
+\\ &= (A \land \sum_i{B_i} )[\mathcal{U}] 
+\\ &= (\sum_i{A \land B_i} )[\mathcal{U}] 
+\\ &= \sum_i{(A \land B_i)[\mathcal{U}]}
+\\ &= \sum_i{(A[B_i] \land B_i[\mathcal{U}]})
 \end{aligned}$$
