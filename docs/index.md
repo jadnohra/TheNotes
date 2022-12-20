@@ -1,6 +1,7 @@
 <p align="center"><img src="/TheNotes/assets/TheNotes.png" width="320"/></p>
 
 # Notes
+- 2022-12-20 [Example of a Bayesian Analytic Posterior Update](short-notes/2022-12-20-bayes-analytic-posterior-update-example.md)
 - 2022-11-21 [Remember Bayes Rule as a 'Change of Bayesis'](short-notes/2022-11-21-change-of-bayesis.md)
 - 2022-04-01 [The Simplest Way to Remember Bayes Rule](short-notes/2022-04-01-remember-bayes.md)
 
