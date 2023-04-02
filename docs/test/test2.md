@@ -4,7 +4,7 @@
 
 * Ten years ago, I decided I will secretly embark on a journey to 'truly understand' mathematics, as a rebellious naive challenge to the well known warning: "Young man, in mathematics you don't understand things. You just get used to them." and tell no one about it until I have a result.
 * Two years ago, I showed the work in progress of this work to a person how asked me to mentor them in mathematics, that person's comment was that this would be a game changer and a holy grail if it works.
-* Two years ago, I stopped worked on that project which swallowed every minute of my free time for 5 years in a row.
+* Two years ago, I stopped workin on that project which swallowed every minute of my free time for 5 years in a row.
 
 I embarked on this journey because something burns inside my, and inside so many people I talk to. **We go through our education, we graduate, and still we feel that did not 'really' understand anything**. If I would have summarize my failed journey in this regard, I would note:
 * At the start, I tried to find in the literature (Philosophy and Pedagogy) or through introspection, what 'understanding' really means. The results were inconclusive, but my opinion after around a year of reading and thinking was:
