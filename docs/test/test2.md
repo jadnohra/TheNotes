@@ -1,4 +1,4 @@
-# How I Wasted 5 years of my life and predicted ChatGpt
+# How I Wasted 5 Years and Predicted ChatGpt
 
 # The Nature of 'Understanding'
 
