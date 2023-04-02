@@ -17,6 +17,7 @@ I embarked on this journey because something burns inside my, and inside so many
   - As a tangent, I need to add that navigating the relationships happens based on a internal implicit metric that one builds through experience. The metric that picks the relationship or lemma or theorem or technique to try as the 'closest' to the current state of the problem. What makes someone an expert is that their metric has been finely tuned to their domain, such that they have the right 'feeling' for what step to take next. 
   - At one point, I naively thought that if I master proving theorems using formal logic and while stripping the content from semantics, I would be able to master any kind of mathematical proof because I would 'so to speak' have mastered the 'core' or mathematical proving. To a certain extent, that is true because I managed to pass the first three courses of my math MsC with >98 grades without even once relying on a drawing or an intuition, but only using cold symbol manipulation. However, I came to realize that this only works for simpler problems. This was a sad realization because it shattered 2 years I had spent fully focusing on mathematical formal logic.
 
+# The Birth of DefDefQed
 
 
 
