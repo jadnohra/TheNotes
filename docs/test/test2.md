@@ -1,6 +1,6 @@
 # How I Wasted 5 years of my life and predicted ChatGpt
 
-# What's Wrong with Current Education
+# The Nature of 'Understanding'
 
 * Ten years ago, I decided I will secretly embark on a journey to 'truly understand' mathematics, as a rebellious naive challenge to the well known warning: "Young man, in mathematics you don't understand things. You just get used to them." and tell no one about it until I have a result.
 * Two years ago, I showed the work in progress of this work to a person how asked me to mentor them in mathematics, that person's comment was that this would be a game changer and a holy grail if it works.
